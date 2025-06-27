@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Generative AI and much more.**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available [here](https://github.com/aman75verma?tab=repositories)
 
 - 💬 Ask me about **Model Optimisation , Deep Learning and related tech.**
 
